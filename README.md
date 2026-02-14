@@ -8,9 +8,9 @@ Then, run the script on your local terminal.
 -> If on Windows:
 - Open CMD
 - Open the folder where the script is installed
-- Type "k6 run load.js"
+- Type "k6 run [scriptname].js"
 
 -> Linux:
 - Open Terminal
 - Open the folder where the script is installed
-- Type "k6 run load.js"
+- Type "k6 run [scriptname].js"
